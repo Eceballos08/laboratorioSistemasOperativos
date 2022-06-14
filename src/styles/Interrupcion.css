@@ -1,0 +1,117 @@
+.interruptionContainerPP {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  background-color: #20282e;
+}
+
+.infoContainer {
+  width: 50%;
+  height: 600px;
+  padding: 10px;
+  background-color: #51b66d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgArrowBack {
+  width: 50px;
+  height: 50px;
+}
+
+.imgInterruption {
+  width: 500px;
+  height: 500px;
+}
+
+.formContainer {
+  background-color: #fff;
+  width: 50%;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  color: #20282e;
+  font-size: 16px;
+  font-family: "Jura", sans-serif;
+  width: 50%;
+  height: 60%;
+  padding: 15px;
+}
+
+.tittle {
+  font-size: 25px;
+  font-family: "Russo One", sans-serif;
+  color: #51b66d;
+  text-align: center;
+  padding: 10px;
+}
+
+input {
+  font-size: 14px;
+  padding: 8px 16px;
+  width: 100%;
+  min-height: 44px;
+  border: 0.1em solid #a4aea7;
+  border-radius: 5px;
+  outline-color: #fff;
+  background-color: rgb(255, 255, 255);
+}
+
+span {
+  font-weight: bold;
+  padding: 0px;
+  text-align: start;
+}
+
+.button.Validacion {
+  margin: 0;
+  background: #51b66d;
+  color: #fff;
+  font-family: "Jura", sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  overflow: hidden;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button.Validacion:hover {
+  color: #fff;
+  background: #325c45;
+  transition-delay: 0ms;
+}
+
+.btnBack {
+  width: 100%;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 50%;
+  color: #20282e;
+  font-weight: bold;
+}
+
+@media (max-width: 600px) {
+  .interruptionContainerPP {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .infoContainer {
+    display: none;
+  }
+
+  .formContainer {
+    width: 100%;
+  }
+}

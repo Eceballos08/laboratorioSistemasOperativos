@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100&family=Poppins:wght@500&family=Roboto:wght@100;300;400&family=Russo+One&display=swap");
+
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  background-color: #20282e;
+}
+
+.headerTittle {
+  color: #51b66d;
+  padding: 20px;
+  font-size: 50px;
+  font-family: "Russo One", sans-serif;
+}
