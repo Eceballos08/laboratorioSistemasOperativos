@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Laboratorios-Sistemas-Operativos/static/css/main.9b1d0ab7.css",
-    "main.js": "/Laboratorios-Sistemas-Operativos/static/js/main.948495bf.js",
+    "main.css": "/Laboratorios-Sistemas-Operativos/static/css/main.fb1581ec.css",
+    "main.js": "/Laboratorios-Sistemas-Operativos/static/js/main.aea1ead2.js",
+    "static/media/Timer.png": "/Laboratorios-Sistemas-Operativos/static/media/Timer.fe52602fd91bec0319f2.png",
+    "static/media/So.png": "/Laboratorios-Sistemas-Operativos/static/media/So.76955ab7ec8631a2e007.png",
     "index.html": "/Laboratorios-Sistemas-Operativos/index.html",
-    "main.9b1d0ab7.css.map": "/Laboratorios-Sistemas-Operativos/static/css/main.9b1d0ab7.css.map",
-    "main.948495bf.js.map": "/Laboratorios-Sistemas-Operativos/static/js/main.948495bf.js.map"
+    "main.fb1581ec.css.map": "/Laboratorios-Sistemas-Operativos/static/css/main.fb1581ec.css.map",
+    "main.aea1ead2.js.map": "/Laboratorios-Sistemas-Operativos/static/js/main.aea1ead2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b1d0ab7.css",
-    "static/js/main.948495bf.js"
+    "static/css/main.fb1581ec.css",
+    "static/js/main.aea1ead2.js"
   ]
 }
