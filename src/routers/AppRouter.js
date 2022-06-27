@@ -12,6 +12,7 @@ export const AppRouter = () => {
       <Routes>
         <Route path="/" element={<Laboratorios />} />
         <Route path="/interrupcion" element={<Interrupcion />} />
+        <Route path="*" element={<Laboratorios />} />
       </Routes>
       <Footer />
     </BrowserRouter>
